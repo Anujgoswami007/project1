@@ -6,7 +6,59 @@
 .headerList {
     display: flex;
     position: relative;
-    flex-direction: row-reverse;
+
+}
+
+.a {
+    position: absolute;
+    width: 57px;
+    height: 43px;
+    left: 856px;
+    top: 27px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+
+    color: #000000;
+}
+
+.b {
+    position: absolute;
+    width: 106px;
+    height: 43px;
+    left: 882px;
+    top: 27px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+
+    color: #000000;
+
+}
+
+.c {
+    position: absolute;
+    width: 71px;
+    height: 43px;
+    left: 1021px;
+    top: 27px;
+
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: right;
+
+    color: #000000;
 }
 
 .main1 {
@@ -277,12 +329,12 @@ button {
     height: 25px;
     left: 420px;
     top: 1137px;
-font-family: 'Heebo';
-font-style: normal;
-font-weight: 900;
-font-size: 18px;
-color: #FFFFFF;
-line-height: 26px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    color: #FFFFFF;
+    line-height: 26px;
     background: #142850;
     border-radius: 16px;
     padding: 0 0 0 20px;
@@ -353,11 +405,11 @@ line-height: 26px;
     left: 410px;
     top: 1372px;
     font-family: 'Heebo';
-font-style: normal;
-font-weight: 900;
-font-size: 18px;
-color: #FFFFFF;
-line-height: 26px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    color: #FFFFFF;
+    line-height: 26px;
     background: #142850;
     border-radius: 16px;
     padding: 0 0 0 20px;
@@ -434,12 +486,12 @@ line-height: 26px;
     left: 420px;
     top: 1616px;
     font-family: 'Heebo';
-font-style: normal;
-font-weight: 900;
-font-size: 18px;
-color: #FFFFFF;
-padding: 0 0 0 20px;  
-line-height: 26px;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    color: #FFFFFF;
+    padding: 0 0 0 20px;
+    line-height: 26px;
     background: #142850;
     border-radius: 16px;
 }
@@ -477,7 +529,63 @@ line-height: 26px;
     color: #21243D;
 }
 
-footer{
+footer {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 1827px;
+    bottom: 0%;
+    background: #FFFFFF;
 
+}
 
+.main4a1 {
+
+    position: absolute;
+
+    left: 40.28%;
+    right: 40.45%;
+    width: 32px;
+}
+
+.main4a2 {
+
+    position: absolute;
+
+    left: 44.28%;
+    right: 40.45%;
+    width: 32px;
+}
+
+.main4a3 {
+
+    position: absolute;
+
+    left: 49.28%;
+    right: 40.45%;
+    width: 32px;
+}
+
+.main4a4 {
+
+    position: absolute;
+
+    left: 54.28%;
+    right: 40.45%;
+    width: 32px;
+}
+
+.main4e {
+    position: absolute;
+    height: 21px;
+    left: 40.28%;
+    right: 41.45%;
+    top: 49px;
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: center;
+    color: #21243D;
 }
